@@ -1,0 +1,124 @@
+{
+  "cities": [
+    {
+      "id": "4b00",
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2025-01-19T09:09:57.801Z",
+      "notes": "",
+      "position": {
+        "lat": "38.77121637244273",
+        "lng": "-9.16481145446129"
+      }
+    },
+    {
+      "id": "b618",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-01-19T09:10:12.593Z",
+      "notes": "",
+      "position": {
+        "lat": "40.43022363450862",
+        "lng": "-3.7353515625000004"
+      }
+    },
+    {
+      "id": "8aaa",
+      "cityName": "les Escaldes",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2025-01-19T09:10:16.632Z",
+      "notes": "",
+      "position": {
+        "lat": "42.53689200787317",
+        "lng": "1.5820312500000002"
+      }
+    },
+    {
+      "id": "7a6c",
+      "cityName": "Toulouse",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-01-19T09:10:22.768Z",
+      "notes": "",
+      "position": {
+        "lat": "43.572431747409745",
+        "lng": "1.4282226562500002"
+      }
+    },
+    {
+      "id": "9ce8",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-01-19T09:10:34.865Z",
+      "notes": "",
+      "position": {
+        "lat": "48.83579746243093",
+        "lng": "2.3291015625000004"
+      }
+    },
+    {
+      "id": "9751",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2025-01-19T09:10:38.568Z",
+      "notes": "",
+      "position": {
+        "lat": "51.467696956223385",
+        "lng": "-0.15380859375000003"
+      }
+    },
+    {
+      "id": "f105",
+      "cityName": "Dublin",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2025-01-19T09:10:41.840Z",
+      "notes": "",
+      "position": {
+        "lat": "53.30462107510271",
+        "lng": "-6.284179687500001"
+      }
+    },
+    {
+      "id": "a402",
+      "cityName": "Hinojosa del Duque",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-01-21T02:32:33.388Z",
+      "notes": "",
+      "position": {
+        "lat": "38.465911995166366",
+        "lng": "-5.295410156250001"
+      }
+    },
+    {
+      "id": "b959",
+      "cityName": "Kathmandu",
+      "country": "Nepal",
+      "emoji": "🇳🇵",
+      "date": "2025-02-15T04:47:52.476Z",
+      "notes": "",
+      "position": {
+        "lat": "27.70265570274116",
+        "lng": "85.3227424621582"
+      }
+    },
+    {
+      "id": "4506",
+      "cityName": "Kathmandu",
+      "country": "Nepal",
+      "emoji": "🇳🇵",
+      "date": "2025-02-15T04:48:07.332Z",
+      "notes": "",
+      "position": {
+        "lat": "27.698156167357396",
+        "lng": "85.32807469367982"
+      }
+    }
+  ]
+}
